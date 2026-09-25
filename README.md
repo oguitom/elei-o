@@ -8,17 +8,17 @@ Projeto de simulação de eleição da disciplina Técnicas de Programação 1 (
 
 ## Etapa 1 — Estrutura Inicial
 
-Nesta etapa foram preparados o ambiente de desenvolvimento, a estrutura inicial do projeto e os protótipos funcionais das telas principais, com navegação básica entre elas.
+Nesta etapa foram preparados o ambiente de desenvolvimento, a estrutura inicial que iremos ultilizar e os protótipos funcionais das telas principais, com navegação básica entre elas.
 
-O sistema utiliza exclusivamente dados fictícios para fins acadêmicos.
+O sistema utiliza exclusivamente dados "fictícios" para fins acadêmicos.
 
 ## Módulos
 
 - Administração
 - Pesquisas
-- Coleta e Amostra
+- Coleta e Amostra (Guilherme)
 - Análise Estatística e Relatórios
-- Candidatos e Partidos
+- Candidatos e Partidos (todos)
 
 ## Tecnologias
 
