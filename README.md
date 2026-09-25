@@ -1,6 +1,7 @@
 # Sistema de Análise de Pesquisas Eleitorais
 
-Projeto acadêmico simulado desenvolvido para a disciplina Técnicas de Programação 1 (CIC0197) — Universidade de Brasília.
+Projeto de simulação de eleição da disciplina Técnicas de Programação 1 (CIC0197) — UnB.
+GRUPO 7 - Guilherme Antônio, Júlia Pereira, Juliano e Laryssa
 
 ## Etapa 1 — Estrutura Inicial
 
@@ -35,4 +36,4 @@ O sistema utiliza exclusivamente dados fictícios para fins acadêmicos.
 - E-mail: admin@eleicoes.local
 - Senha: 12345678
 
-Os dados são fictícios e servem somente para demonstração da interface.
+Os dados são fictícios
