@@ -1,6 +1,7 @@
 # Sistema de Análise de Pesquisas Eleitorais
 
 Projeto de simulação de eleição da disciplina Técnicas de Programação 1 (CIC0197) — UnB.
+
 **GRUPO 7** — Guilherme Antônio, Júlia Pereira, Juliano e Laryssa
 
 **Professora:** Roberta Barbosa Oliveira
