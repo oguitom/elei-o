@@ -15,7 +15,7 @@ O sistema utiliza exclusivamente dados "fictícios" para fins acadêmicos.
 ## Módulos
 
 - Administração
-- Pesquisas
+- Pesquisas (Júlia)
 - Coleta e Amostra (Guilherme)
 - Análise Estatística e Relatórios
 - Candidatos e Partidos (todos)
