@@ -14,10 +14,10 @@ O sistema utiliza exclusivamente dados "fictícios" para fins acadêmicos.
 
 ## Módulos
 
-- Administração
+- Administração (Laryssa)
 - Pesquisas (Júlia)
 - Coleta e Amostra (Guilherme)
-- Análise Estatística e Relatórios
+- Análise Estatística e Relatórios (Juliano)
 - Candidatos e Partidos (todos)
 
 ## Tecnologias
