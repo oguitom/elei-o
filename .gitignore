@@ -1,0 +1,6 @@
+# Arquivos compilados pelo Maven
+target/
+
+# Configurações locais do IntelliJ
+.idea/
+*.iml
