@@ -1,4 +1,4 @@
-package br.unb.eleicoes.controladores;
+package br.unb.eleicoes.dominio.controladores;
 
 import br.unb.eleicoes.dominio.pesquisas.Pesquisa;
 import br.unb.eleicoes.dominio.pesquisas.TipoPesquisa;
