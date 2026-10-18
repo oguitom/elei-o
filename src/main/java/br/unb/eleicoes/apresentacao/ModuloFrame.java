@@ -40,7 +40,7 @@ public class ModuloFrame extends JFrame {
             }
             JOptionPane.showMessageDialog(this,
                     "Protótipo: " + selecionada + "\n\nSem regra de negócio nesta etapa.",
-                    modulo);
+                    modulo, JOptionPane.INFORMATION_MESSAGE);
         });
         voltar.addActionListener(e -> dispose());
 
